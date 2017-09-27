@@ -1,0 +1,9 @@
+# python
+*.pyc
+*.pkl
+
+# config
+c.txt
+
+# data
+/data
