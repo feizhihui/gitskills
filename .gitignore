@@ -1,9 +1,9 @@
-# python
+﻿# python
 *.pyc
 *.pkl
 
 # config
 c.txt
 
-# data
-/data
+# directory
+data 
